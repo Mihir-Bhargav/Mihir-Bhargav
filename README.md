@@ -1,6 +1,6 @@
 # Hey, I'm Mihir 👋
 
-**16 · AI builder · Python dev · Entrepreneur · Quant finance**
+**16 · AI builder · Python dev · Quant finance**
 
 ### What I'm working on
 - 🧠 **AI & ML** — Applied machine learning with pytorch, LLM-systems, AI-driven developement with Harness Engineering
